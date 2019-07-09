@@ -17,7 +17,20 @@ export class Images extends Component {
 
   render() {
     console.log(this.state);
-    return <div>hello</div>;
+    return (
+      <div className='images'>
+        <InfiniteScroll
+          dataLength={this.state.images.length}
+          next={this.fetchImages}
+          hasMore={true}
+          loader={<h4>Loading...</h4>}
+        >
+          {this.setState.state.images.map(image => (
+            <Image key={image.id} image={image} />
+          ))}
+        </InfiniteScroll>
+      </div>
+    );
   }
 }
 
