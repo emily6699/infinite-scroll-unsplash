@@ -4,7 +4,7 @@
 
 ## Quick Start
 ```
-# Install Node  dependecies
+# Install Node  dependencies
 npm i
 # Install React dependencies
 cd client 
