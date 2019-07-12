@@ -18,6 +18,6 @@ npm run dev
 
 ### Issues-solved
 
-#### For the first time adding proxy to this project, proxy is not working. Need to restart the server in order to have proxy to work
+#### 1 For the first time adding proxy to this project, proxy is not working. Need to restart the server in order to have proxy to work
 
-#### client/component/Images Be careful of using React methods and property,fetchImages=()=>{} can’t be written as fetchImages(){}
+#### 2 client/component/Images Be careful of using React methods and property,fetchImages=()=>{} can’t be written as fetchImages(){}
