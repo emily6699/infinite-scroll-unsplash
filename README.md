@@ -14,3 +14,5 @@ npm i
 # Start client and server
 npm run dev
 ```
+### Issues
+#### proxy is not working very well, needs to refresh the page multiple times to get proxy to work
