@@ -15,4 +15,4 @@ npm i
 npm run dev
 ```
 ### Issues
-#### proxy is not working very well, needs to refresh the page multiple times to get proxy to work,not sure why yet.
+#### For the first time adding proxy, proxy is not working very well, needs to refresh the page multiple times to get proxy to work,not sure why yet.
