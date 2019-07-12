@@ -14,5 +14,5 @@ npm i
 # Start client and server
 npm run dev
 ```
-### Issues
-#### For the first time adding proxy to this project, proxy is not working very well, needs to refresh the page multiple times to get proxy to work,not sure why yet.
+### Issues-solved
+#### For the first time adding proxy to this project, proxy is not working. Need to restart the server in order to have proxy to work
