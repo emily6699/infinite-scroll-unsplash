@@ -16,7 +16,8 @@ export class Images extends Component {
       .get(`/api/photos?count=${count}&start=${start}`)
       .then(res => this.setState({ images: res.data }));
   }
-
+  //Be careful of using React methods and property
+  //fetchImages=()=>{} can’t be written as fetchImages(){}
   fetchImages = () => {
     console.log(123);
 
