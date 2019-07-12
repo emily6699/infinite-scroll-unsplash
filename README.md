@@ -1,0 +1,18 @@
+# React & Unsplash Infinite Scroll
+
+### Use unsplash API to fetch images continously with an infinite scrolling.
+
+Part of the challenge is from https://scotch.io/bar-talk/code-challenge-16-infinite-scroll-unsplash-gallery
+
+## Quick Start
+```
+# Install Node  dependencies
+npm i
+# Install React dependencies
+cd client 
+npm i
+# Start client and server
+npm run dev
+```
+### Issues-solved
+#### For the first time adding proxy to this project, proxy is not working. Need to restart the server in order to have proxy to work
