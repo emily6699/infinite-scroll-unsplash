@@ -21,3 +21,5 @@ npm run dev
 #### 1 For the first time adding proxy to this project, proxy is not working. Need to restart the server in order to have proxy to work
 
 #### 2 client/component/Images Be careful of using React methods and property,fetchImages=()=>{} can’t be written as fetchImages(){}
+
+#### 3 If no new pictures are loaded, may need to check dataLength
