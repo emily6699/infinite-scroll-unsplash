@@ -23,3 +23,5 @@ npm run dev
 #### 2 client/component/Images Be careful of using React methods and property,fetchImages=()=>{} can’t be written as fetchImages(){}
 
 #### 3 If no new pictures are loaded, may need to check dataLength
+
+#### 4 package.json, "client": "npm start --prefix client" can't be replaced as "npm run --prefix client"
